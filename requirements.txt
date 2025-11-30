@@ -2,5 +2,4 @@ streamlit
 numpy
 pandas
 scikit-learn
-tensorflow==2.13.0
-h5py
+tensorflow-cpu
