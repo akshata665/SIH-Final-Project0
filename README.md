@@ -87,23 +87,7 @@ Web-deployment via Streamlit Cloud / custom server
 SIH Team — Power Grid Corporation Project
 Built and trained with real FRA data from multiple vendors
 
-yaml
-Copy code
 
----
-
-## ✅ How to Add This to Your Repo  
-
-1. Create file `README.md` at root of `SIH-Final-Project`  
-2. Paste the above content and save  
-3. Commit and push  
-
-This ensures when someone visits your GitHub repo — judges or collaborators — they immediately understand the purpose, usage, and professionalism of your project.  
-
----
-
-If you want — I can also prepare a **badge list**, **license section**, and **table-of-contents links** to make README look even more polished.
-::contentReference[oaicite:2]{index=2}
 
 
 
